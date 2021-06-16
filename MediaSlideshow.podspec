@@ -26,7 +26,7 @@ Media slideshow is a Swift library providing customizable image (and optionally,
   s.author           = { "Petr Zvonicek" => "zvonicek@gmail.com" }
   s.source           = { :git => "https://github.com/pm-dev/MediaSlideshow.git", :tag => s.version.to_s }
 
-  s.swift_versions = ['4.0', '4.1', '4.2', '5', '5.1', '5.2']
+ # s.swift_versions = ['4.0', '4.1', '4.2', '5', '5.1', '5.2']
   s.platform     = :ios, '10.0'
   s.requires_arc = true
 
